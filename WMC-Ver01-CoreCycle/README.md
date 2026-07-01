@@ -44,7 +44,7 @@ Ver. 01 covers:
 ## Repository Structure
 
 ```text
-WMC_Ver01_CoreCycle/
+WMC-Ver01-CoreCycle/
 ├── images/
 │   ├── WMC_Ver01_Chart.png
 │   ├── WMC_Ver01_Chart_with_Links.png
