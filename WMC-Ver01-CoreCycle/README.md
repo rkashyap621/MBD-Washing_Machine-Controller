@@ -346,3 +346,11 @@ These features are implemented in later versions of the project.
 WMC Ver. 01 establishes the foundation of the washing-machine controller. It demonstrates a requirement-based Stateflow workflow, where system behavior is authored as requirements, implemented as Stateflow logic, linked to model elements, checked for consistency, traced using a matrix, and validated through simulation evidence.
 
 This version forms the baseline for later enhancements such as pause/resume control, fault handling, stage-status monitoring, and diagnostic verification.
+
+---
+
+## License
+
+MIT License
+
+---
