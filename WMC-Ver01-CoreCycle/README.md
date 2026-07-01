@@ -49,6 +49,7 @@ WMC_Ver01_CoreCycle/
 │   └── WMC_Ver01_CoreCycle.slx
 ├── requirements/
 │   ├── WMC_Ver01_CoreCycle_Requirements.xlsx
+│   ├── WMC_Ver01_CoreCycle_Requirements.pdf
 │   ├── WMC_Ver01_CoreCycle_Requirements.slreqx
 │   └── WMC_Ver01_CoreCycle_Requirements.slmx
 ├── results/
