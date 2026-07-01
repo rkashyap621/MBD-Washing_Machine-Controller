@@ -165,21 +165,21 @@ The symbols pane confirms the configured inputs, outputs, and parameters used in
 
 The Ver. 01 requirement set defines the nominal behavior of the core washing-machine cycle.
 
-| Requirement ID | Requirement Name | Summary |
-|---|---|---|
-| WMC-REQ-001 | System Initialization | Controller shall enter Idle with all actuators OFF and cycle indicators reset. |
-| WMC-REQ-002 | Start Condition | Controller shall start the washing cycle when `start_button` is 1 and `door_closed` is 1. |
-| WMC-REQ-003 | Door Safety Before Start | Controller shall remain in Idle if the start command is given while the door is open. |
-| WMC-REQ-004 | Door Lock Activation | Controller shall activate `door_lock` and wait for the configured delay before water filling. |
-| WMC-REQ-005 | Wash-Cycle Water Fill | Controller shall turn ON `water_valve` during wash water filling until `water_level_ok` is 1. |
-| WMC-REQ-006 | Detergent Fill Stage | Controller shall turn ON `detergent_valve` until `detergent_level_ok` is 1. |
-| WMC-REQ-007 | Wash Stage | Controller shall turn ON `wash_motor` for the configured wash duration. |
-| WMC-REQ-008 | Wash-Cycle Drain | Controller shall turn ON `drain_pump` for the configured drain duration. |
-| WMC-REQ-009 | Rinse-Cycle Water Fill | Controller shall turn ON `water_valve` during rinse water filling until `water_level_ok` is 1. |
-| WMC-REQ-010 | Rinse Stage | Controller shall turn ON `wash_motor` for the configured rinse duration. |
-| WMC-REQ-011 | Rinse-Cycle Drain | Controller shall turn ON `drain_pump` for the configured drain duration. |
-| WMC-REQ-012 | Spin Stage | Controller shall turn ON `spin_motor` for the configured spin duration. |
-| WMC-REQ-013 | Cycle Completion | Controller shall turn OFF all actuators, unlock the door, and set `cycle_complete` to 1. |
+| Requirement ID | Requirement Name | Summary | Status |
+|---|---|---|---|
+| WMC-REQ-001 | System Initialization | Controller shall enter Idle with all actuators OFF and cycle indicators reset. | ✅ Pass |
+| WMC-REQ-002 | Start Condition | Controller shall start the washing cycle when `start_button` is 1 and `door_closed` is 1. | ✅ Pass |
+| WMC-REQ-003 | Door Safety Before Start | Controller shall remain in Idle if the start command is given while the door is open. | ✅ Pass |
+| WMC-REQ-004 | Door Lock Activation | Controller shall activate `door_lock` and wait for the configured delay before water filling. | ✅ Pass |
+| WMC-REQ-005 | Wash-Cycle Water Fill | Controller shall turn ON `water_valve` during wash water filling until `water_level_ok` is 1. | ✅ Pass |
+| WMC-REQ-006 | Detergent Fill Stage | Controller shall turn ON `detergent_valve` until `detergent_level_ok` is 1. | ✅ Pass |
+| WMC-REQ-007 | Wash Stage | Controller shall turn ON `wash_motor` for the configured wash duration. | ✅ Pass |
+| WMC-REQ-008 | Wash-Cycle Drain | Controller shall turn ON `drain_pump` for the configured drain duration. | ✅ Pass |
+| WMC-REQ-009 | Rinse-Cycle Water Fill | Controller shall turn ON `water_valve` during rinse water filling until `water_level_ok` is 1. | ✅ Pass |
+| WMC-REQ-010 | Rinse Stage | Controller shall turn ON `wash_motor` for the configured rinse duration. | ✅ Pass |
+| WMC-REQ-011 | Rinse-Cycle Drain | Controller shall turn ON `drain_pump` for the configured drain duration. | ✅ Pass |
+| WMC-REQ-012 | Spin Stage | Controller shall turn ON `spin_motor` for the configured spin duration. | ✅ Pass |
+| WMC-REQ-013 | Cycle Completion | Controller shall turn OFF all actuators, unlock the door, and set `cycle_complete` to 1. | ✅ Pass |
 
 ---
 
