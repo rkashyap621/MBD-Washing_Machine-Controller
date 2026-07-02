@@ -259,12 +259,12 @@ The Ver. 02 requirement set contains the Ver. 01 nominal-cycle requirements and 
 
 The requirements were authored externally and linked to Stateflow implementation elements using Requirements Toolbox.
 
-Requirement source file:
+Requirement source files:
 
 ```text
 requirements/WMC_Ver02_PauseFault_Requirements.xlsx
+requirements/WMC_Ver02_PauseFault_Requirements.pdf
 ```
-
 Generated requirements report:
 
 ```text
