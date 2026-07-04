@@ -60,7 +60,7 @@ WMC-Ver01-CoreCycle/
 │   ├── WMC_Ver01_Scope_Result.png
 │   ├── WMC_Ver01_Spin_Cycle.png
 │   ├── WMC_Ver01_Symbols_Pane.png
-│   ├──WMC_Ver01_Top_Level_Model.png
+│   ├── WMC_Ver01_Top_Level_Model.png
 │   └── WMC_Ver01_Wash_Cycle.png
 ├── model/
 │   └── WMC_Ver01_CoreCycle.slx
