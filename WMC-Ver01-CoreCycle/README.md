@@ -45,36 +45,36 @@ Ver. 01 covers:
 
 ```text
 WMC-Ver01-CoreCycle/
-├── images/
-│   ├── WMC_Ver01_Chart.png
-│   ├── WMC_Ver01_Chart_with_Links.png
-│   ├── WMC_Ver01_CoreCycle_Requirements_Consistency_Check.png
-│   ├── WMC_Ver01_CoreCycle_Requirements_Consistency_Check_Report.png
-│   ├── WMC_Ver01_CoreCycle_Requirements_Links_Part1.png
-│   ├── WMC_Ver01_CoreCycle_Requirements_Links_Part2.png
-│   ├── WMC_Ver01_CoreCycle_Requirements_Traceability_Matrix.png
-│   ├── WMC_Ver01_Cycle_Complete.png
-│   ├── WMC_Ver01_Cycle_Complete_to_Idle.png
-│   ├── WMC_Ver01_Idle_Start.png
-│   ├── WMC_Ver01_Rinse_Cycle.png
-│   ├── WMC_Ver01_Scope_Result.png
-│   ├── WMC_Ver01_Spin_Cycle.png
-│   ├── WMC_Ver01_Symbols_Pane.png
-│   ├── WMC_Ver01_Top_Level_Model.png
-│   └── WMC_Ver01_Wash_Cycle.png
-├── model/
-│   └── WMC_Ver01_CoreCycle.slx
-├── requirements/
-│   ├── WMC_Ver01_CoreCycle_Requirements.xlsx
-│   ├── WMC_Ver01_CoreCycle_Requirements.pdf
-│   ├── WMC_Ver01_CoreCycle_Requirements.slreqx
-│   └── WMC_Ver_01_CoreCycle~mdl.slmx
-├── results/
-│   ├── WMC_Ver01_CoreCycle_Requirements.pdf
-│   ├── WMC_Ver01_CoreCycle_Requirements_Consistency_Check.html
-│   ├── WMC_Ver01_CoreCycle_Traceability_Matrix.html
-│   └── WMC_Ver01_Scope_Result.png
-└── README.md
+|-- images/
+|   |-- WMC_Ver01_Chart.png
+|   |-- WMC_Ver01_Chart_with_Links.png
+|   |-- WMC_Ver01_CoreCycle_Requirements_Consistency_Check.png
+|   |-- WMC_Ver01_CoreCycle_Requirements_Consistency_Check_Report.png
+|   |-- WMC_Ver01_CoreCycle_Requirements_Links_Part1.png
+|   |-- WMC_Ver01_CoreCycle_Requirements_Links_Part2.png
+|   |-- WMC_Ver01_CoreCycle_Requirements_Traceability_Matrix.png
+|   |-- WMC_Ver01_Cycle_Complete.png
+|   |-- WMC_Ver01_Cycle_Complete_to_Idle.png
+|   |-- WMC_Ver01_Idle_Start.png
+|   |-- WMC_Ver01_Rinse_Cycle.png
+|   |-- WMC_Ver01_Scope_Result.png
+|   |-- WMC_Ver01_Spin_Cycle.png
+|   |-- WMC_Ver01_Symbols_Pane.png
+|   |-- WMC_Ver01_Top_Level_Model.png
+│   `-- WMC_Ver01_Wash_Cycle.png
+|-- model/
+│   `-- WMC_Ver01_CoreCycle.slx
+|-- requirements/
+|   |-- WMC_Ver01_CoreCycle_Requirements.xlsx
+|   |-- WMC_Ver01_CoreCycle_Requirements.pdf
+|   |-- WMC_Ver01_CoreCycle_Requirements.slreqx
+│   `-- WMC_Ver_01_CoreCycle~mdl.slmx
+|-- results/
+|   |-- WMC_Ver01_CoreCycle_Requirements.pdf
+|   |-- WMC_Ver01_CoreCycle_Requirements_Consistency_Check.html
+|   |-- WMC_Ver01_CoreCycle_Traceability_Matrix.html
+│   `-- WMC_Ver01_Scope_Result.png
+`-- README.md
 ```
 
 ---
